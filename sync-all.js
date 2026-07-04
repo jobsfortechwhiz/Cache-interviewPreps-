@@ -1,21 +1,38 @@
-const syncPosts =
-require("./sync-posts");
+const fs = require("fs-extra");
 
-const syncPages =
-require("./sync-pages");
+const syncPosts = require("./sync-posts");
+const syncPages = require("./sync-pages");
 
-(async()=>{
+(async () => {
 
-    console.log(
-        "Sync Started..."
+    console.log("Sync Started...");
+
+    const postCount = await syncPosts();
+
+    const pageCount = await syncPages();
+
+    await fs.writeJson(
+
+        "./data/archive.json",
+
+        {
+
+            generatedAt: new Date().toISOString(),
+
+            totalPosts: postCount,
+
+            totalPages: pageCount,
+
+            version: "1.0.0"
+
+        },
+
+        { spaces: 2 }
+
     );
 
-    await syncPosts();
-
-    await syncPages();
-
-    console.log(
-        "All Sync Completed"
-    );
+    console.log("Archive Updated");
 
 })();
+
+

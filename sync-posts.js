@@ -192,13 +192,13 @@ async function syncPosts(){
         console.log(
             "Posts Synced Successfully"
         );
-
+return entries.length;
     }
 
     catch(err){
 
         console.log(err);
-
+return 0;
     }
 
 }

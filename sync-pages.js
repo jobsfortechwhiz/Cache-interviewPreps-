@@ -182,13 +182,13 @@ async function syncPages(){
         console.log(
             "Pages Synced Successfully"
         );
-
+return entries.length;
     }
 
     catch(err){
 
         console.log(err);
-
+return 0;
     }
 
 }
