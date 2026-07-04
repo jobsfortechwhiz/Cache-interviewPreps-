@@ -2,11 +2,7 @@
   "id": "tag:blogger.com,1999:blog-3116858574126921604.page-4977673217142284738",
   "title": "Success",
   "slug": "success",
-  "published": "2026-06-03T22:00:50.299+05:30",
   "updated": "2026-06-08T18:07:59.529+05:30",
   "author": "Priya",
-  "url": "https://interviewprepforinsiders.blogspot.com/p/success.html",
-  "summary": "",
-  "thumbnail": "",
   "content": "<script>\nconst product = localStorage.getItem('pdf_product');\n\nswitch(product){\n  case 'java':\n    window.location.href='/p/java-pdf-download.html';\n    break;\n\n  case 'spring':\n    window.location.href='/p/spring-pdf-download.html';\n    break;\n\ncase 'php':\n    window.location.href='/p/php-pdf-download.html';\n    break;\n\ncase 'unix':\n    window.location.href='/p/unix-pdf-download.html';\n    break;\n\ncase 'android':\n    window.location.href='/p/android-pdf-download.html';\n    break;\n case 'jira':\n    window.location.href='/p/jira-pdf-download.html';\n    break;   \n   case 'git':\n    window.location.href='/p/git-pdf-download.html';\n    break;\n\n  case 'json':\n    window.location.href='/p/json-pdf-download.html';\n    break;\n\ncase 'docker':\n    window.location.href='/p/docker-pdf-download.html';\n    break;\n\ncase 'app':\n    window.location.href='/p/web-security.html';\n    break;\n\ncase 'jenkins':\n    window.location.href='/p/jenkins-pdf-download.html';\n    break;\n  \n}\n</script>"
 }
