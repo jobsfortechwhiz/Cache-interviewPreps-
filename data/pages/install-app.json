@@ -1,0 +1,12 @@
+{
+  "id": "tag:blogger.com,1999:blog-3116858574126921604.page-484150625260882607",
+  "title": "Install App",
+  "slug": "install-app",
+  "published": "2026-06-01T13:19:04.815+05:30",
+  "updated": "2026-06-06T18:32:30.634+05:30",
+  "author": "Priya",
+  "url": "https://interviewprepforinsiders.blogspot.com/p/install-app.html",
+  "summary": "",
+  "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuy53dKcn-KERxg5zhQLyESn9Ef80rZcS3I7FZzm-wDCDRgq3MmnMQblCXZO_83yfqYHbzw4sxLZBWB9_sYIb4Xj0tNBqP1xvGekSd1VXGrF749Ojg8sFoGrxqGz9eGZ7kqS0Ca1ErogsSaHZ16b0vfQVfsgZnm_VlyywKs8J84urSTj3c99gHjZm6x9U/s72-c/mobile.png.png",
+  "content": "<style>\n  .full-card{\ndisplay:inline-block;\nmargin:20px auto;\npadding:35px;\nbackground:#ffffff;\nborder-radius:18px;\nbox-shadow:0 4px 18px rgba(0,0,0,0.10);\nfont-family:Arial,sans-serif;\nline-height:1.8;\nbox-sizing:border-box;\n    text-align:center;\n\n}\n  \n</style>\n\n<h2>Install Interview Prep App</h2>\n\n<p>Thank you for purchasing.</p>\n\n<button id='installBtn'\nstyle='padding:14px 20px;\nbackground:#28a745;\ncolor:white;\nborder:none;\nborder-radius:8px;'>\n\nInstall App\n\n</button>\n<div id=\"installGuide\" style=\"display:none;text-align:center;margin-top:20px;\">\n  <p class=\"full-card\" style=\"color:black\">\n     <br>Tap<b> ⋮</b> (top-right menu) and select<br>\n <b>Add to Home Screen</b>\n  </p><br>\n  <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuy53dKcn-KERxg5zhQLyESn9Ef80rZcS3I7FZzm-wDCDRgq3MmnMQblCXZO_83yfqYHbzw4sxLZBWB9_sYIb4Xj0tNBqP1xvGekSd1VXGrF749Ojg8sFoGrxqGz9eGZ7kqS0Ca1ErogsSaHZ16b0vfQVfsgZnm_VlyywKs8J84urSTj3c99gHjZm6x9U/s400/mobile.png.png\" width=\"400\" height=\"450\">\n \n</div>\n\n<script>\n\nlet deferredPrompt;\n\nwindow.addEventListener('beforeinstallprompt',(e)=>{\n\ne.preventDefault();\n\ndeferredPrompt=e;\n\n});\n\ndocument.getElementById('installBtn')\n.addEventListener('click',async()=>{\n\nif (deferredPrompt) {\n\n    deferredPrompt.prompt();\n\n    const result = await deferredPrompt.userChoice;\n\n    deferredPrompt = null;\n\n  } else {\n          alert('Install from browser');\n    document.getElementById('installGuide').style.display='block';\n\n  }\n\n});\n\n</script>"
+}

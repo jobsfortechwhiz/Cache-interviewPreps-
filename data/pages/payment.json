@@ -1,0 +1,12 @@
+{
+  "id": "tag:blogger.com,1999:blog-3116858574126921604.page-5248902614735197431",
+  "title": "payment",
+  "slug": "payment",
+  "published": "2026-06-17T16:51:22.033+05:30",
+  "updated": "2026-06-17T16:57:07.128+05:30",
+  "author": "Priya",
+  "url": "https://interviewprepforinsiders.blogspot.com/p/payment.html",
+  "summary": "",
+  "thumbnail": "",
+  "content": "<script>\n  const PDFs = [\n\n{  id:\"java\",\n  name:\"Java Interview PDF\",\n  price:10\n},\n\n{  id:\"spring\",\n  name:\"Spring Boot PDF\",\n   price:10\n},\n\n{  id:\"android\",\n  name:\"Android PDF\",\n  price:10\n},\n\n{  id:\"docker\",\n  name:\"Microservices PDF\",\n  price:10\n},\n\n{ id:\"php\",\n  name:\"PHP PDF\",\n   price:10\n},\n  { id:\"app\",\n  name:\"App security and testing  PDF\",\n   price:10\n},\n  { id:\"client\",\n  name:\"Client-server model PDF\",\n   price:10\n},\n  { id:\"git\",\n  name:\"Git PDF\",\n  price:10\n}\n  ,\n  { id:\"jenkins\",\n  name:\"Jenkins PDF\",\n   price:10\n}\n  ,\n  {  id:\"jira\",\n  name:\"Jira PDF\",\n  price:10\n}\n  ,\n  { id:\"json\",\n  name:\"JSON PDF\",\n  price:10\n} ,\n  { id:\"unix\",\n  name:\"Unix PDF\",\n   price:10\n}\n  \n\n];\n  \n  \n\nconst pdfId =\nnew URLSearchParams(\nlocation.search\n).get(\"pdf\");  \n\n   localStorage.setItem(\n  \"selectedPdf\",\n  pdfId\n);\nconst pdf =\nPDFs.find(\nx => x.id === pdfId\n);\n  \n \n /* function paymentDone(){\n\n window.location.href =\n \"download.html?pdf=\" +\n encodeURIComponent(pdfId);\n\n} */\n  \n \n</script>\n<h2 id=\"pdfName\">\nSelected PDF\n</h2>\n\n<p>\nPrice: ₹10\n</p>\n\n<a\nclass=\"buy-btn\"\nhref=\"https://rzp.io/rzp/16ARMZe\">\n\nPay Now\n\n</a>\n<style>\n  .buy-btn{\n\ndisplay:inline-block;\n\npadding:12px 12px;\n\nbackground:#ff6600;\n\ncolor:white;\n\nborder-radius:8px;\n\ntext-decoration:none;\n\nfont-weight:bold;\n\n}\n  \n</style>\n"
+}

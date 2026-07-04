@@ -1,0 +1,929 @@
+[
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-3624010865098755081",
+    "title": "PHP App Projects with source code",
+    "slug": "php-app-projects-with-source-code",
+    "updated": "2026-07-04T17:06:52.222+05:30"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-4730095063165773032",
+    "title": "Android App Projects with source code",
+    "slug": "android-app-projects-with-source-code",
+    "updated": "2026-07-04T17:07:04.607+05:30"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-6974078973916455136",
+    "title": "Basic JQuery for web development",
+    "slug": "basic-jquery-for-web-development",
+    "updated": "2026-06-12T11:07:25.210+05:30"
+  },
+  {
+    "id": "910",
+    "title": "Terraform - an automation Tool",
+    "slug": "terraform-an-automation-tool",
+    "updated": "2026-07-04",
+    "labels": "Technical interview questions"
+  },
+  {
+    "id": "101",
+    "title": "Additional Theory Questions on Spring Boot",
+    "slug": "additional-theory-questions-on-spring-boot",
+    "updated": "2026-07-04",
+    "labels": "Spring interview Questions"
+  },
+  {
+    "id": "111",
+    "title": "Application Security and project Management standards",
+    "slug": "application-security-and-project-management-standards",
+    "updated": "2026-07-04",
+    "labels": "Technical interview questions"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-7278856228754035125",
+    "title": "How Kubernetes works internally",
+    "slug": "how-kubernetes-works-internally",
+    "updated": "2026-06-12T11:10:40.711+05:30"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-715689398807472423",
+    "title": "Some common Topics under PHP programming",
+    "slug": "some-common-topics-under-php-programming",
+    "updated": "2026-06-04T08:19:05.594+05:30"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-9082773007447806244",
+    "title": "Serverless Computing",
+    "slug": "serverless-computing",
+    "updated": "2026-06-12T11:11:08.061+05:30"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-3800676079092205666",
+    "title": "Different Project Tracking Tool",
+    "slug": "different-project-tracking-tool",
+    "updated": "2026-06-12T11:11:29.195+05:30"
+  },
+  {
+    "id": "161",
+    "title": "Different CI/CD Automation Tools",
+    "slug": "different-ci-cd-automation-tools",
+    "updated": "2026-07-04",
+    "labels": "Technical interview questions"
+  },
+  {
+    "id": "171",
+    "title": "Different File deployment and Packaging Types",
+    "slug": "different-file-deployment-and-packaging-types",
+    "updated": "2026-07-04",
+    "labels": "Technical interview questions"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-8934812586919786352",
+    "title": "Android App Development with Java",
+    "slug": "android-app-development-with-java",
+    "updated": "2026-06-04T08:19:40.919+05:30"
+  },
+  {
+    "id": "192",
+    "title": "Core Java code snippets and basic interview Questions",
+    "slug": "core-java-code-snippets-and-basic-interview-questions",
+    "updated": "2026-07-04",
+    "labels": "Java interview Questions"
+  },
+  {
+    "id": "202",
+    "title": "Some interview questions on JDBC for Java Candidates",
+    "slug": "some-interview-questions-on-jdbc-for-java-candidates",
+    "updated": "2026-07-04",
+    "labels": "Java interview Questions"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-6527923940242193380",
+    "title": "App development through Android Java",
+    "slug": "app-development-through-android-java",
+    "updated": "2026-06-12T11:13:35.159+05:30"
+  },
+  {
+    "id": "222",
+    "title": "Real time Streaming platform - Apache Kafka",
+    "slug": "real-time-streaming-platform-apache-kafka",
+    "updated": "2026-07-04",
+    "labels": "Technical interview questions"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-420417457655520603",
+    "title": "Git core commands for code Syncing",
+    "slug": "git-core-commands-for-code-syncing",
+    "updated": "2026-06-12T11:14:33.839+05:30"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-1322829064297654993",
+    "title": "Azure Cloud Components",
+    "slug": "azure-cloud-components",
+    "updated": "2026-06-12T11:15:08.126+05:30"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-3507629842696937966",
+    "title": "Maven - Project Management tool",
+    "slug": "maven-project-management-tool",
+    "updated": "2026-06-12T11:15:35.306+05:30"
+  },
+  {
+    "id": "262",
+    "title": "Microservices Technical Questions asked in Interviews",
+    "slug": "microservices-technical-questions-asked-in-interviews",
+    "updated": "2026-07-04",
+    "labels": "Spring interview Questions"
+  },
+  {
+    "id": "272",
+    "title": "Some behavioral Questions on HR Interviews for Freshers and experienced",
+    "slug": "some-behavioral-questions-on-hr-interviews-for-freshers-and-experience",
+    "updated": "2026-07-04",
+    "labels": "HR | Managerial interview Questions"
+  },
+  {
+    "id": "282",
+    "title": "Some Managerial level Questions for Job Interviews",
+    "slug": "some-managerial-level-questions-for-job-interviews",
+    "updated": "2026-07-04",
+    "labels": "HR | Managerial interview Questions"
+  },
+  {
+    "id": "293",
+    "title": "Tricky, scenario based Questions asked in HR | Managerial rounds",
+    "slug": "tricky-scenario-based-questions-asked-in-hr-managerial-rounds",
+    "updated": "2026-07-04",
+    "labels": "HR | Managerial interview Questions"
+  },
+  {
+    "id": "303",
+    "title": "Questions of strength, weakness,personal hobbies and favourites asked in interviews",
+    "slug": "questions-of-strength-weakness-personal-hobbies-and-favourites-asked-in-interviews",
+    "updated": "2026-07-04",
+    "labels": "HR | Managerial interview Questions"
+  },
+  {
+    "id": "313",
+    "title": "Most commonly asked HR and managerial round questions for Job Interviews",
+    "slug": "most-commonly-asked-hr-and-managerial-round-question-for-job-interviews",
+    "updated": "2026-07-04",
+    "labels": "HR | Managerial interview Questions"
+  },
+  {
+    "id": "323",
+    "title": "Basic key questions for interviews on DevOps and Cloud Computing",
+    "slug": "basic-key-questions-for-interview-on-devOps-and-cloud-computing",
+    "updated": "2026-07-04",
+    "labels": "Cloud DevOps | GitOps interview questions"
+  },
+  {
+    "id": "333",
+    "title": "Some basic Questions on Spring Boot for Web Development asked in interviews",
+    "slug": "some-basic-questions-on-spring-boot-for-web-development-asked-in-interviews",
+    "updated": "2026-07-04",
+    "labels": "Spring interview Questions"
+  },
+  {
+    "id": "343",
+    "title": "PHP basic interview Questions for Web Developers and Freshers",
+    "slug": "php-basic-interview-questions-for-web-developers-and-freshers",
+    "updated": "2026-07-04",
+    "labels": "PHP web development Questions"
+  },
+  {
+    "id": "353",
+    "title": "Advanced Java interview questions for every Job professional",
+    "slug": "advanced-java-interview-questions-for-every-job-professional",
+    "updated": "2026-07-04",
+    "labels": "Java interview Questions"
+  },
+  {
+    "id": "363",
+    "title": "Core Java interview Questions for freshers and experienced",
+    "slug": "core-java-interview-questions-for-freshers-and-experience",
+    "updated": "2026-07-04",
+    "labels": "Java interview Questions"
+  },
+  {
+    "id": "373",
+    "title": "Basic HR level Questions for job interviews",
+    "slug": "basic-hr-level-questions-for-job-interviews",
+    "updated": "2026-07-04",
+    "labels": "HR | Managerial interview Questions"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-8311924192270409911",
+    "title": "Advance Git commands for Job Interview",
+    "slug": "advance-git-commands-for-job-interview",
+    "updated": "2026-06-08T18:20:42.600+05:30"
+  },
+  {
+    "id": "394",
+    "title": "Some strong concepts of Docker/Kubernetes/Microservices",
+    "slug": "some-strong-concepts-of-docker-kuberneted-microservices",
+    "updated": "2026-07-04",
+    "labels": "Cloud DevOps | GitOps interview questions"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-6387495663947652877",
+    "title": "Basic Shell commands of Unix OS",
+    "slug": "basic-shell-commands-of-unix-os",
+    "updated": "2026-06-04T08:20:33.312+05:30"
+  },
+  {
+    "id": "414",
+    "title": "Web standards for app security with Authorization Token/API Key",
+    "slug": "web-standards-for-app-security-with-authorization-token-api-key",
+    "updated": "2026-07-04",
+    "labels": "Technical interview questions"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-3885951148681484283",
+    "title": "Client server Model",
+    "slug": "client-server-model",
+    "updated": "2026-06-11T07:21:57.860+05:30"
+  },
+  {
+    "id": "394",
+    "title": "Know about Jenkins - an automation tool",
+    "slug": "know-about-jenkins-an-automation-tool",
+    "updated": "2026-07-04",
+    "labels": "Technical interview questions"
+  },
+  {
+    "id": "401",
+    "title": "Objective questions on JSON - web request/response format",
+    "slug": "objective-questions-on-json-web-request-response-format",
+    "updated": "2026-07-04",
+    "labels": "Technical interview questions"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-2164017483366722261",
+    "title": "Interview Questions on Jira",
+    "slug": "interview-questions-on-jira",
+    "updated": "2026-06-08T18:16:46.833+05:30"
+  },
+  {
+    "id": "424",
+    "title": "Privacy Policy",
+    "slug": "privacy-policy",
+    "updated": "2026-07-04"
+  },
+  {
+    "id": "434",
+    "title": "Terms and conditions",
+    "slug": "terms-and-condition",
+    "updated": "2026-07-04"
+  },
+  {
+    "id": "444",
+    "title": "Disclaimer",
+    "slug": "disclaimer",
+    "updated": "2026-07-04"
+  },
+  {
+    "id": "454",
+    "title": "Contact Us",
+    "slug": "contact-us",
+    "updated": "2026-07-04"
+  },
+  {
+    "id": "464",
+    "title": "About Us",
+    "slug": "about-us",
+    "updated": "2026-07-04"
+  },
+  {
+    "id": "474",
+    "title": "Book a Tutor",
+    "slug": "book-a-tutor",
+    "updated": "2026-07-04"
+  },
+  {
+    "id": "484",
+    "title": "Cancellation & Refund Policy",
+    "slug": "cancellation-refund-policy",
+    "updated": "2026-07-04"
+  },
+  {
+    "id": "495",
+    "title": "Make payment to buy",
+    "slug": "make-payment-to-buy",
+    "updated": "2026-07-04"
+  },
+  {
+    "id": "505",
+    "title": "PDF Store",
+    "slug": "pdf-store",
+    "updated": "2026-07-04"
+  },
+  {
+    "id": "515",
+    "title": "Quizlet",
+    "slug": "quizlet",
+    "updated": "2026-07-04"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-6417473447329855126",
+    "title": "Quiz for tech programming",
+    "slug": "quiz-for-tech-programming",
+    "updated": "2026-06-13T12:44:23.548+05:30"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-8511940374692664336",
+    "title": "Terraform - an automation Tool",
+    "slug": "terraform-automation-tool",
+    "updated": "2026-06-12T11:06:11.864+05:30"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-1171281186868123279",
+    "title": "Additional Theory Questions on Spring Boot",
+    "slug": "additional-theory-questions-on-spring",
+    "updated": "2026-06-04T08:18:48.148+05:30"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-9191902074154624084",
+    "title": "Application Security and project Management standards",
+    "slug": "application-security-in-project",
+    "updated": "2026-06-23T07:54:05.158+05:30"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-3251403335645263965",
+    "title": "Different CI/CD Automation Tools",
+    "slug": "different-cicd-automation-tools",
+    "updated": "2026-06-12T11:11:53.789+05:30"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-8808984380653320871",
+    "title": "Different File deployment and Packaging Types ",
+    "slug": "file-deployment-and-packaging-types",
+    "updated": "2026-06-12T11:12:20.776+05:30"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-5650641713496365170",
+    "title": "Core Java code snippets and basic interview Questions",
+    "slug": "core-java-code-snippets-interview-questions",
+    "updated": "2026-06-04T08:20:03.615+05:30"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-1260704322055913969",
+    "title": "Some interview questions on JDBC for Java Candidates",
+    "slug": "interview-questions-on-jdbc",
+    "updated": "2026-06-12T11:13:04.583+05:30"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-6690827318696610140",
+    "title": "Real time Streaming platform - Apache Kafka ",
+    "slug": "real-time-streaming-platform-kafka",
+    "updated": "2026-06-12T11:14:02.362+05:30"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-8179195933853237836",
+    "title": "Microservices Technical Questions asked in Interviews",
+    "slug": "microservices-technical-interview-questions",
+    "updated": "2026-06-21T19:31:23.459+05:30"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-2315574970528599903",
+    "title": "Some behavioral Questions on HR Interviews for Freshers and experienced ",
+    "slug": "behavioral-interview-questions-on-hr",
+    "updated": "2026-05-20T09:30:26.398+05:30"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-3920948869379117522",
+    "title": "Some  Managerial  level Questions for Job Interviews ",
+    "slug": "some-managerial-level-questions-for-job",
+    "updated": "2026-05-20T09:30:41.977+05:30"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-8080924825283753840",
+    "title": "Tricky, scenario based Questions asked in HR | Managerial rounds",
+    "slug": "tricky-scenario-based-interview-questions",
+    "updated": "2026-05-20T09:30:52.021+05:30"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-3776060825612022628",
+    "title": "Questions of strength, weakness,personal hobbies and favourites asked in interviews ",
+    "slug": "questions-of-strength-weakness-hobbies",
+    "updated": "2026-05-20T09:31:02.903+05:30"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-8767071318356145818",
+    "title": "Most commonly asked HR and managerial round questions for Job Interviews ",
+    "slug": "commonly-asked-hr-managerial-questions",
+    "updated": "2026-05-20T09:31:13.512+05:30"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-844740998152899957",
+    "title": "Basic key questions for interviews on DevOps and Cloud Computing ",
+    "slug": "devOps-cloud-computing-interview-questions",
+    "updated": "2026-06-12T11:18:58.055+05:30"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-5861111327519038611",
+    "title": "Some  basic Questions on Spring Boot  for Web Development asked in interviews ",
+    "slug": "interview-questions-on-spring-boot",
+    "updated": "2026-06-12T11:19:56.318+05:30"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-7551555759901090387",
+    "title": "PHP basic interview Questions for Web Developers and Freshers ",
+    "slug": "php-web-interview-questions",
+    "updated": "2026-06-12T11:20:38.472+05:30"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-8519091582078262319",
+    "title": "Advanced Java interview questions for every Job professional ",
+    "slug": "advanced-java-interview-questions",
+    "updated": "2026-06-12T11:46:47.318+05:30"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-8775290009304094463",
+    "title": "Core Java interview Questions for freshers and experienced ",
+    "slug": "core-java-interview-questions",
+    "updated": "2026-06-12T11:47:51.163+05:30"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-5624635581174473343",
+    "title": "Basic HR level Questions for job interviews ",
+    "slug": "basic-hr-level-questions-for-job",
+    "updated": "2026-05-20T09:31:28.254+05:30"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-4563163424847633388",
+    "title": "Some  strong concepts of Docker/Kubernetes/Microservices",
+    "slug": "dockerkubernetesmicroservice",
+    "updated": "2026-06-08T18:21:07.267+05:30"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-5883618938235328462",
+    "title": "Web standards for app security with Authorization Token/API Key",
+    "slug": "app-security-with-authorisation-token-api-key",
+    "updated": "2026-06-08T18:14:42.018+05:30"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-9219415516549849702",
+    "title": "Know about Jenkins - an automation tool",
+    "slug": "know-about-jenkins-automation-tool",
+    "updated": "2026-06-11T06:54:44.241+05:30"
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-7383239163914878727",
+    "title": "Objective questions on JSON - web request/response format",
+    "slug": "json-web-request-response-format",
+    "updated": "2026-06-08T18:17:07.114+05:30"
+  }
+]
+
+Most commonly asked HR and managerial round questions for Job Interviews 
+[
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-3624010865098755081",
+    "title": "PHP App Projects with source code",
+    "slug": "php-app-projects-with-source-code",
+    "updated": "2026-07-04T17:06:52.222+05:30",
+    "published": "2026-07-02T22:08:44.151+05:30",
+    "author": "Priya",
+    "labels": [
+      "PHP web development Questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-4730095063165773032",
+    "title": "Android App Projects with source code",
+    "slug": "android-app-projects-with-source-code",
+    "updated": "2026-07-04T17:07:04.607+05:30",
+    "published": "2026-06-28T10:32:26.452+05:30",
+    "author": "Priya",
+    "labels": [
+      "Android interview Questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-6417473447329855126",
+    "title": "Quiz for tech programming",
+    "slug": "quiz-for-tech-programming",
+    "updated": "2026-06-13T12:44:23.548+05:30",
+    "published": "2026-06-10T06:49:44.104+05:30",
+    "author": "Priya",
+    "labels": []
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-6974078973916455136",
+    "title": "Basic JQuery for web development",
+    "slug": "basic-jquery-for-web-development",
+    "updated": "2026-06-12T11:07:25.210+05:30",
+    "published": "2026-06-10T06:18:23.970+05:30",
+    "author": "Priya",
+    "labels": [
+      "Technical interview questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-8511940374692664336",
+    "title": "Terraform - an automation Tool",
+    "slug": "terraform-automation-tool",
+    "updated": "2026-06-12T11:06:11.864+05:30",
+    "published": "2026-05-30T13:07:02.958+05:30",
+    "author": "Priya",
+    "labels": [
+      "Technical interview questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-1171281186868123279",
+    "title": "Additional Theory Questions on Spring Boot",
+    "slug": "additional-theory-questions-on-spring",
+    "updated": "2026-06-04T08:18:48.148+05:30",
+    "published": "2026-05-24T23:13:00.000+05:30",
+    "author": "Priya",
+    "labels": [
+      "Spring interview Questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-9191902074154624084",
+    "title": "Application Security and project Management standards",
+    "slug": "application-security-in-project",
+    "updated": "2026-06-23T07:54:05.158+05:30",
+    "published": "2026-05-24T22:02:53.091+05:30",
+    "author": "Priya",
+    "labels": [
+      "Technical interview questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-7278856228754035125",
+    "title": "How Kubernetes works internally",
+    "slug": "how-kubernetes-works-internally",
+    "updated": "2026-06-12T11:10:40.711+05:30",
+    "published": "2026-05-24T19:50:34.126+05:30",
+    "author": "Priya",
+    "labels": [
+      "Cloud DevOps | GitOps interview questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-715689398807472423",
+    "title": "Some common Topics under PHP programming",
+    "slug": "some-common-topics-under-php-programming",
+    "updated": "2026-06-04T08:19:05.594+05:30",
+    "published": "2026-05-24T17:56:00.000+05:30",
+    "author": "Priya",
+    "labels": [
+      "PHP web development Questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-9082773007447806244",
+    "title": "Serverless Computing",
+    "slug": "serverless-computing",
+    "updated": "2026-06-12T11:11:08.061+05:30",
+    "published": "2026-05-24T16:29:08.754+05:30",
+    "author": "Priya",
+    "labels": [
+      "Cloud DevOps | GitOps interview questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-3800676079092205666",
+    "title": "Different Project Tracking Tool",
+    "slug": "different-project-tracking-tool",
+    "updated": "2026-06-12T11:11:29.195+05:30",
+    "published": "2026-05-24T14:58:27.162+05:30",
+    "author": "Priya",
+    "labels": [
+      "Technical interview questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-3251403335645263965",
+    "title": "Different CI/CD Automation Tools",
+    "slug": "different-cicd-automation-tools",
+    "updated": "2026-06-12T11:11:53.789+05:30",
+    "published": "2026-05-24T14:42:46.586+05:30",
+    "author": "Priya",
+    "labels": [
+      "Technical interview questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-8808984380653320871",
+    "title": "Different File deployment and Packaging Types ",
+    "slug": "file-deployment-and-packaging-types",
+    "updated": "2026-06-12T11:12:20.776+05:30",
+    "published": "2026-05-24T12:58:27.306+05:30",
+    "author": "Priya",
+    "labels": [
+      "Cloud DevOps | GitOps interview questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-8934812586919786352",
+    "title": "Android App Development with Java",
+    "slug": "android-app-development-with-java",
+    "updated": "2026-06-04T08:19:40.919+05:30",
+    "published": "2026-05-24T12:35:00.000+05:30",
+    "author": "Priya",
+    "labels": [
+      "Android interview Questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-5650641713496365170",
+    "title": "Core Java code snippets and basic interview Questions",
+    "slug": "core-java-code-snippets-interview-questions",
+    "updated": "2026-06-04T08:20:03.615+05:30",
+    "published": "2026-05-24T00:01:00.000+05:30",
+    "author": "Priya",
+    "labels": [
+      "Java interview Questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-1260704322055913969",
+    "title": "Some interview questions on JDBC for Java Candidates",
+    "slug": "interview-questions-on-jdbc",
+    "updated": "2026-06-12T11:13:04.583+05:30",
+    "published": "2026-05-22T16:41:08.279+05:30",
+    "author": "Priya",
+    "labels": [
+      "Java interview Questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-6527923940242193380",
+    "title": "App development through Android Java",
+    "slug": "app-development-through-android-java",
+    "updated": "2026-06-12T11:13:35.159+05:30",
+    "published": "2026-05-22T16:20:22.464+05:30",
+    "author": "Priya",
+    "labels": [
+      "Android interview Questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-6690827318696610140",
+    "title": "Real time Streaming platform - Apache Kafka ",
+    "slug": "real-time-streaming-platform-kafka",
+    "updated": "2026-06-12T11:14:02.362+05:30",
+    "published": "2026-05-20T15:51:31.290+05:30",
+    "author": "Priya",
+    "labels": [
+      "Technical interview questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-420417457655520603",
+    "title": "Git core commands for code Syncing",
+    "slug": "git-core-commands-for-code-syncing",
+    "updated": "2026-06-12T11:14:33.839+05:30",
+    "published": "2026-05-20T15:22:42.441+05:30",
+    "author": "Priya",
+    "labels": [
+      "Cloud DevOps | GitOps interview questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-1322829064297654993",
+    "title": "Azure Cloud Components",
+    "slug": "azure-cloud-components",
+    "updated": "2026-06-12T11:15:08.126+05:30",
+    "published": "2026-05-20T13:42:32.039+05:30",
+    "author": "Priya",
+    "labels": [
+      "Cloud DevOps | GitOps interview questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-3507629842696937966",
+    "title": "Maven - Project Management tool",
+    "slug": "maven-project-management-tool",
+    "updated": "2026-06-12T11:15:35.306+05:30",
+    "published": "2026-05-20T12:57:00.406+05:30",
+    "author": "Priya",
+    "labels": [
+      "Technical interview questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-8179195933853237836",
+    "title": "Microservices Technical Questions asked in Interviews",
+    "slug": "microservices-technical-interview-questions",
+    "updated": "2026-06-21T19:31:23.459+05:30",
+    "published": "2026-05-20T11:26:20.860+05:30",
+    "author": "Priya",
+    "labels": [
+      "Spring interview Questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-2315574970528599903",
+    "title": "Some behavioral Questions on HR Interviews for Freshers and experienced ",
+    "slug": "behavioral-interview-questions-on-hr",
+    "updated": "2026-05-20T09:30:26.398+05:30",
+    "published": "2026-05-20T09:29:41.125+05:30",
+    "author": "Priya",
+    "labels": [
+      "HR | Managerial interview Questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-3920948869379117522",
+    "title": "Some  Managerial  level Questions for Job Interviews ",
+    "slug": "some-managerial-level-questions-for-job",
+    "updated": "2026-05-20T09:30:41.977+05:30",
+    "published": "2026-05-20T09:27:35.602+05:30",
+    "author": "Priya",
+    "labels": [
+      "HR | Managerial interview Questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-8080924825283753840",
+    "title": "Tricky, scenario based Questions asked in HR | Managerial rounds",
+    "slug": "tricky-scenario-based-interview-questions",
+    "updated": "2026-05-20T09:30:52.021+05:30",
+    "published": "2026-05-20T09:25:53.719+05:30",
+    "author": "Priya",
+    "labels": [
+      "HR | Managerial interview Questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-3776060825612022628",
+    "title": "Questions of strength, weakness,personal hobbies and favourites asked in interviews ",
+    "slug": "questions-of-strength-weakness-hobbies",
+    "updated": "2026-05-20T09:31:02.903+05:30",
+    "published": "2026-05-20T09:23:46.208+05:30",
+    "author": "Priya",
+    "labels": [
+      "HR | Managerial interview Questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-8767071318356145818",
+    "title": "Most commonly asked HR and managerial round questions for Job Interviews ",
+    "slug": "commonly-asked-hr-managerial-questions",
+    "updated": "2026-05-20T09:31:13.512+05:30",
+    "published": "2026-05-20T09:21:25.480+05:30",
+    "author": "Priya",
+    "labels": [
+      "HR | Managerial interview Questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-844740998152899957",
+    "title": "Basic key questions for interviews on DevOps and Cloud Computing ",
+    "slug": "devOps-cloud-computing-interview-questions",
+    "updated": "2026-06-12T11:18:58.055+05:30",
+    "published": "2026-05-20T09:17:28.210+05:30",
+    "author": "Priya",
+    "labels": [
+      "Cloud DevOps | GitOps interview questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-5861111327519038611",
+    "title": "Some  basic Questions on Spring Boot  for Web Development asked in interviews ",
+    "slug": "interview-questions-on-spring-boot",
+    "updated": "2026-06-12T11:19:56.318+05:30",
+    "published": "2026-05-20T09:12:44.173+05:30",
+    "author": "Priya",
+    "labels": [
+      "Spring interview Questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-7551555759901090387",
+    "title": "PHP basic interview Questions for Web Developers and Freshers ",
+    "slug": "php-web-interview-questions",
+    "updated": "2026-06-12T11:20:38.472+05:30",
+    "published": "2026-05-20T09:10:12.473+05:30",
+    "author": "Priya",
+    "labels": [
+      "PHP web development Questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-8519091582078262319",
+    "title": "Advanced Java interview questions for every Job professional ",
+    "slug": "advanced-java-interview-questions",
+    "updated": "2026-06-12T11:46:47.318+05:30",
+    "published": "2026-05-20T09:05:31.288+05:30",
+    "author": "Priya",
+    "labels": [
+      "Java interview Questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-8775290009304094463",
+    "title": "Core Java interview Questions for freshers and experienced ",
+    "slug": "core-java-interview-questions",
+    "updated": "2026-06-12T11:47:51.163+05:30",
+    "published": "2026-05-20T09:01:57.747+05:30",
+    "author": "Priya",
+    "labels": [
+      "Java interview Questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-5624635581174473343",
+    "title": "Basic HR level Questions for job interviews ",
+    "slug": "basic-hr-level-questions-for-job",
+    "updated": "2026-05-20T09:31:28.254+05:30",
+    "published": "2026-05-20T08:18:47.726+05:30",
+    "author": "Priya",
+    "labels": [
+      "HR | Managerial interview Questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-8311924192270409911",
+    "title": "Advance Git commands for Job Interview",
+    "slug": "advance-git-commands-for-job-interview",
+    "updated": "2026-06-08T18:20:42.600+05:30",
+    "published": "2026-05-04T16:48:00.000+05:30",
+    "author": "Priya",
+    "labels": [
+      "Cloud DevOps | GitOps interview questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-4563163424847633388",
+    "title": "Some  strong concepts of Docker/Kubernetes/Microservices",
+    "slug": "dockerkubernetesmicroservice",
+    "updated": "2026-06-08T18:21:07.267+05:30",
+    "published": "2026-05-04T15:04:00.000+05:30",
+    "author": "Priya",
+    "labels": [
+      "Cloud DevOps | GitOps interview questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-6387495663947652877",
+    "title": "Basic Shell commands of Unix OS",
+    "slug": "basic-shell-commands-of-unix-os",
+    "updated": "2026-06-04T08:20:33.312+05:30",
+    "published": "2026-05-04T10:54:00.000+05:30",
+    "author": "Priya",
+    "labels": [
+      "Cloud DevOps | GitOps interview questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-5883618938235328462",
+    "title": "Web standards for app security with Authorization Token/API Key",
+    "slug": "app-security-with-authorisation-token-api-key",
+    "updated": "2026-06-08T18:14:42.018+05:30",
+    "published": "2026-05-03T18:13:00.000+05:30",
+    "author": "Priya",
+    "labels": [
+      "Technical interview questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-3885951148681484283",
+    "title": "Client server Model",
+    "slug": "client-server-model",
+    "updated": "2026-06-11T07:21:57.860+05:30",
+    "published": "2026-05-02T17:09:00.000+05:30",
+    "author": "Priya",
+    "labels": [
+      "Technical interview questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-9219415516549849702",
+    "title": "Know about Jenkins - an automation tool",
+    "slug": "know-about-jenkins-automation-tool",
+    "updated": "2026-06-11T06:54:44.241+05:30",
+    "published": "2026-05-02T16:40:00.000+05:30",
+    "author": "Priya",
+    "labels": [
+      "Technical interview questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-7383239163914878727",
+    "title": "Objective questions on JSON - web request/response format",
+    "slug": "json-web-request-response-format",
+    "updated": "2026-06-08T18:17:07.114+05:30",
+    "published": "2026-05-02T15:59:00.000+05:30",
+    "author": "Priya",
+    "labels": [
+      "Technical interview questions"
+    ]
+  },
+  {
+    "id": "tag:blogger.com,1999:blog-3116858574126921604.post-2164017483366722261",
+    "title": "Interview Questions on Jira",
+    "slug": "interview-questions-on-jira",
+    "updated": "2026-06-08T18:16:46.833+05:30",
+    "published": "2026-05-02T10:06:00.000+05:30",
+    "author": "Priya",
+    "labels": [
+      "Technical interview questions"
+    ]
+  }
+]

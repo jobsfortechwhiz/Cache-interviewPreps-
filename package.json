@@ -1,0 +1,17 @@
+{
+  "name": "blogger-cache",
+  "version": "1.0.0",
+  "description": "Blogger cache project",
+  "main": "sync.js",
+  "scripts": {
+    "start": "node sync.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.18.1",
+    "fs-extra": "^11.3.6",
+    "slugify": "^1.6.9",
+    "xml2js": "^0.6.2"
+  }
+}
