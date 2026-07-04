@@ -2,42 +2,18 @@ name: Blogger Archive
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 0 * * 6'
 
 jobs:
   archive:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: 22
 
-      - name: Install Dependencies
-        run: npm install
+      - run: npm install
 
-      - name: Run Blogger Sync
-        run: node sync-all.js
-
-      - name: Commit Archive
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-
-          git add data
-
-          if git diff --cached --quiet
-          then
-            echo "No changes found."
-          else
-            git commit -m "Auto Archive Blogger Content"
-            git push
-          fi
+      - run: node sync-all.js
